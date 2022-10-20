@@ -7,7 +7,6 @@
 }
 
 
-
 .papi{
     display: flex;
     flex-wrap: wrap
@@ -17,13 +16,10 @@
 .container {
     border: solid red;
     flex-direction: column;
-    width: 19em;
+    /* width: 19em; */
+    width: 400px;
     min-height: 100vh;
     background-color: #FFF;
-}
-
-ul{
-    
 }
 
 li{
@@ -43,8 +39,6 @@ button{
     width: 15em;
     height: 5em;
     color: white;
-    
-    
 }
 
 .nuevochat{
@@ -54,12 +48,13 @@ button{
 }
 
 .nombre{
-    font-size: medium;
+    font-size: large;
     padding: 10px;
 }
 .networking{
     border: solid green;
-    width: 100%;
+    padding: 0;
+    width: 930px;
     background-color: #e8ebe4;
     
 }
