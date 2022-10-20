@@ -14,10 +14,10 @@
 }
 
 .container {
-    border: solid red;
+    /* border: solid red; */
     flex-direction: column;
     /* width: 19em; */
-    width: 400px;
+    width: 300px;
     min-height: 100vh;
     background-color: #FFF;
 }
@@ -52,9 +52,9 @@ button{
     padding: 10px;
 }
 .networking{
-    border: solid green;
+    /* border: solid green; */
     padding: 0;
-    width: 930px;
+    width: 80%;
     background-color: #e8ebe4;
     
 }
